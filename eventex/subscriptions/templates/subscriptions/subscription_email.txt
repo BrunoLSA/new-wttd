@@ -1,0 +1,11 @@
+Olá, tudo bem?
+
+Você se inscreveu no EVENTEX.
+Dados da sua inscrição:
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Inscrição confirmada.
