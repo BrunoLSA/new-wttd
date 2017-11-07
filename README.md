@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/BrunoLSA/new-wttd.svg?branch=master)](https://travis-ci.org/BrunoLSA/new-wttd)
+[![Code Health](https://landscape.io/github/BrunoLSA/new-wttd/master/landscape.svg?style=flat)](https://landscape.io/github/BrunoLSA/new-wttd/master)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório.
