@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     #other_apps
     'django_extensions',
+    'test_without_migrations',
 
     #my apps
     'eventex.core',
