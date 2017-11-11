@@ -3,9 +3,9 @@ Olá, tudo bem?
 Você se inscreveu no EVENTEX.
 Dados da sua inscrição:
 
-Nome: {{ name }}
-CPF: {{ cpf }}
-Email: {{ email }}
-Telefone: {{ phone }}
+Nome: {{ subscription.name }}
+CPF: {{ subscription.cpf }}
+Email: {{ subscription.email }}
+Telefone: {{ subscription.phone }}
 
 Inscrição confirmada.
